@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Jakobsweg Göppingen"
+  page-navigation: true
+  search: true
+  navbar:
+    # logo: images/logo.gif
+    background: primary
+    left:
+    - href: index.qmd
+      text: Startseite
+    - href: karte.qmd
+      text: Karte
+    - href: wegbeschreibung.qmd
+      text: Wegbeschreibung
+    - href: uebernachtung.qmd
+      text: Übernachtung
+    - href: aktivitaeten.qmd
+      text: Aktivitäten
+    - href: mitmachenundhelfen.qmd
+      text: Mitmachen und Helfen
+    - href: ueberuns.qmd
+      text: Über uns
+  page-footer:
+    left: |
+      Jakobsweg Initative
+    right:
+      - icon: github
+        href: https://github.com/quarto-dev/quarto-cli
+format:
+  html:
+    toc: true
+    theme: flatly
+    css: styles.css
+
+
