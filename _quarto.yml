@@ -11,14 +11,12 @@ website:
     left:
     - href: index.qmd
       text: Startseite
-    - href: karte.qmd
-      text: Karte
     - href: wegbeschreibung.qmd
       text: Wegbeschreibung
     - href: uebernachtung.qmd
-      text: Übernachtung
-    - href: mitmachenundhelfen.qmd
-      text: Mitmachen und Helfen
+      text: Rasten und Nächtigen
+    - href: bilder.qmd
+      text: Bilder
     - href: ueberuns.qmd
       text: Über uns
   page-footer:
