@@ -1,0 +1,8 @@
+---
+title: "Bilder"
+---
+![Kaltesfeld bei Hohenstaufen](images/Kaltesfeld.jpg)
+![Die Stiftskirche](images/Stiftskirche.jpg)
+![Blick zum Rechberg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rechberg_20070801.jpg/1920px-Rechberg_20070801.jpg)
+![Eislinger Stempelstelle im Wald](images/Eislingerstempel.jpg)
+![Wanderung entlang der Fils](https://upload.wikimedia.org/wikipedia/commons/d/d5/Die_Fils_in_G%C3%B6ppingen%3B_Raue_Rampe_und_Tiroler_Wehr.jpg)
