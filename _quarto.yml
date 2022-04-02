@@ -17,8 +17,6 @@ website:
       text: Wegbeschreibung
     - href: uebernachtung.qmd
       text: Übernachtung
-    - href: aktivitaeten.qmd
-      text: Aktivitäten
     - href: mitmachenundhelfen.qmd
       text: Mitmachen und Helfen
     - href: ueberuns.qmd
