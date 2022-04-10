@@ -1,0 +1,36 @@
+---
+format: 
+  html:
+    page-layout: full
+    toc: false
+lang: de
+---
+## Der Startpunkt der Wanderung - die Jakobuskirche in Bargau
+![Jakobskirche in Bargau - Quelle: Wikipedia](images/2015_Kirche_St._Jakobus_Bargau.jpg)
+
+## Kaltes Feld
+![Kaltesfeld bei Hohenstaufen  - Quelle: Wikipedia](images/Kaltesfeld2.jpg)
+
+## Der Rechberg
+![Blick zum Rechberg - Quelle: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rechberg_20070801.jpg/1920px-Rechberg_20070801.jpg)
+
+## Die Stiftskirche in Faurndau
+![Die Stiftskirche - Quelle: Wikipedia](images/Stiftskirche.jpg)
+
+## Wanderung entlang der Fils
+![Wanderung entlang der Fils - Quelle: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/d/d5/Die_Fils_in_G%C3%B6ppingen%3B_Raue_Rampe_und_Tiroler_Wehr.jpg)
+
+## Wandergruppe zwischen Jebenhausen und Schopflenberg
+![Wandergruppe auf dem Göppinger Jakobsweg - Quelle: privat](images/1.jpg)
+
+## Die Jakobskapelle in Krummwälden
+![Die Jakobskapelle in Krummwälden - Quelle: privat](images/2.jpg)
+
+## Blick auf die Kaiserberg
+![Umwelt und Natur - Quelle: privat](images/3.jpg)
+
+# Bäckerei Herdtlinsweiler 
+![Täglich Brot - Quelle: Privat](images/4.jpg)
+
+## Kräuterspirale Apotheke Faurndau
+![Kräuterspirale Medizin - Quelle: privat](images/5.jpg)
