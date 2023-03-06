@@ -1,23 +1,23 @@
-
+---
+lang: de
+editor: source
+format: 
+  html:
+    toc: false
+---
 
 # Der Jakobsweg Göppingen
+![Die drei Kaiserberge](images/kaiserberge.png){.preview-image} 
+<br><br>
+Als Pilger wird man nicht geboren. Die Sehnsucht nach der Ferne und der Entschluss aufzubrechen entwickeln sich im Laufe des Lebens. Oft in Übergangsphasen, wenn das Alte nicht mehr gilt und das Neue noch unklar ist. Dann eröffnet die Fußreise auf dem Pilgerweg neue Perspektiven. Das Wegenetzwerk der Jakobswege umspannt und verbindet Europa. Der Göppinger Jakobsweg lädt Sie ein, eine kleine Etappe dieses Wegs zu erfahren. Das Besondere am Göppinger Abschnitt ist die Verbindung des Pilgerweg mit der Gesundheit, dem Glauben, der Umwelt und unserem Alltag. Wie die fünf Finger an einer Hand greifen sie ineinander und helfen und unterstützen uns bei unseren Wegen. 
 
-Als Pilger wird man nicht geboren. Die Sehnsucht nach der Ferne und der Entschluss aufzubrechen entwickeln sich im Laufe des Lebens. Oft in Übergangsphasen, wenn das Alte nicht mehr gilt und das Neue noch unklar ist. Dann eröffnet die Fußreise auf dem Pilgerweg neue Perspektiven. Das Wegenetzwerk der Jakobswege umspannt Europa und der Jakobsweg Göppingen ist ein kleiner Teil davon.
+### Wandel
+Wie das Leben verändert sich auch der Weg. Orte wandeln sich, manches vergeht, aber vieles entsteht auch wieder neu. Seien Sie also nicht enttäuscht, wenn Sie nicht alles vorfinden, wie Sie es auf dieser Seite beschrieben finden. Der Jakobsweg Göppingen ist nicht fertig und wird es hoffentlich nie werden. Wenn Sie etwas Neues finden schreiben Sie uns! 
 
-Der Göppinger Jakobsweg lädt Sie ein, eine kleine Etappe dieses Wegs zu erproben. Das Besondere am Göppinger Abschnitt ist die Verbindung des Pilgerweg mit der Gesundheit, dem Glauben, der Umwelt und unserem Alltag. Wie die fünf Finger an einer Hand greifen sie ineinander und helfen und unterstützen uns bei unseren Wegen. 
+### Download von Geodaten
+Sie können die Wegstrecke als [GPX-Datei](images/jakobsweg-goeppingen.gpx) oder die Wegstrecke mit den Wegpunkten als [KML-Datei](images/jakobsweg-goeppingen.kml) herunterladen.
 
-Wie das Leben verändert sich auch der Weg. Orte wandeln sich, manches vergeht aber vieles entsteht auch wieder neu. Seien Sie also nicht enttäuscht, wenn Sie nicht alles vorfinden, wie Sie es auf dieser Seite beschrieben finden. Vielleicht finden Sie  etwas Neues. Der Jakobsweg Göppingen ist nicht fertig und wird es hoffentlich nie werden. 
+### Stempelheft
+Nicht nur Kinder benutzen gerne unser [Stempelheft](images/Stempelheft.pdf) und sammeln Pilgerstempel. Das Stempelheft beinhaltet auch die Stempel der Strecke von Neresheim nach Tübingen.
 
-## Stempelheft
-
-Nicht nur Kinder benutzen gerne den neuen **Stempelpass** und sammeln **PILGERSTEMPEL** an inzwischen über einem halben Dutzend Orten am Göppinger Jakobsweg und GesundheitsPfad ! - Das [Stempelheft](Stempelheft_2010-12.Pdf) hier ausdrucken!! Viel Spass beim Sammeln !!
-
--   ![Wandern](images/1.jpg)
-
--   ![Spiritualität](images/2.jpg)
-
--   ![Umwelt und Natur](images/3.jpg)
-
--   ![Täglich Brot](images/4.jpg)
-
--   ![Kräuterspirale - Medizin](images/5.jpg)
+<div style="text-align: right"> Die Initative Jakobsweg Göppingen, 2022 </div>
