@@ -1,14 +1,13 @@
 project:
   type: website
+lang: de
 
 website:
   title: "Jakobsweg Göppingen"
   description: Der Jakobsweg Göppingen führt durch den Landkreis Göppingen. Der Wanderweg führt durch Wälder, Berge, Dörfer und Städte. Familien, Pilger, Reisende alle sind wilkommen.
   image: images/logo.png
-  locale: de_DE
   favicon: images/logo.png
   twitter-card: true
-  opengraph: true
   page-navigation: true
   search: true
   navbar:
